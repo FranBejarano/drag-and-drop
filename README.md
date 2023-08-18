@@ -19,13 +19,13 @@ To use this project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/project-management-app.git
+    git clone https://github.com/FranBejarano/drag-and-drop.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd project-management-app
+    cd drag-and-drop
     ```
 
 3. **Install dependencies using npm:**
